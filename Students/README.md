@@ -12,6 +12,7 @@
 * Seungwon Yoon, ysw0927, [buttonsense](https://buttonsense.github.io/yoon)
 * Jinpeng You, stevenyou92, [stevenyou92](https://stevenyou92.github.io/)
 * Xiangdong Yu, henryyu8, [henryyu8](http://henryyu8.github.io./)
+* Nicholas York, nyork2, [nyork2](https://nyork2.github.io./)
 
 
 ## Graduate Students
